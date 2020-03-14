@@ -1,0 +1,20 @@
+{
+  "name": "simulationcraft-rest",
+  "version": "1.0.0",
+  "description": "simple rest interface for simulationcraft",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "simulationcraft",
+    "api",
+    "http"
+  ],
+  "author": "telaak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
